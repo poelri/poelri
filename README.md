@@ -18,12 +18,12 @@
 ## EDUCATION
 
  <h4>[ 청년취업사관학교 SeSAC ]</h4>
-👩🏻‍🎓 2024.07 ~ 2024.12 
+👩🏻‍🎓 2024.07 ~ 2024.12 <br>
 Java-based Full Stack Web Developer
 
 <h4> [ 국비지원교육 수료 ]</h4>
 👩🏻‍🎓 2023.12 ~ 2024.06  
- Java-based Full Stack Web Developer
+ Java-based Full Stack Web Developer<br>
  (  Frontend & Backend )
  <br>
  <br> <br>  
